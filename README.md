@@ -2,7 +2,7 @@
 
 ## Environment
 *Step 1:* Install Anaconda
-- (Visit the Anaconda Website)[https://www.anaconda.com/products/distribution]
+- [Visit the Anaconda Website](https://www.anaconda.com/products/distribution)
 - Download the Anaconda distribution that matches your operating system (e.g., Windows, macOS, Linux).
 - Follow the installation instructions for your OS. During installation, you can choose whether to add Anaconda to your system's PATH; it's recommended to do so.
 
