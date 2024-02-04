@@ -13,3 +13,7 @@
 - Activate the conda environment (source=conda for windows) `source activate <environment_name>`
 - Verify the conda environment was create successfully `conda info --envs`
 
+**Step 3: Install Hugging Face's Transformers**
+- Activate conda environment `source activate <environment_name>`
+- Install transformers library `pip install transformers`
+
