@@ -17,7 +17,9 @@
 - Activate conda environment `source activate <environment_name>`
 - Install transformers library `pip install transformers`
 
+- **ongoing...
+
 ## Resources
-[Companion Notebook](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
-[Lecture Repo](https://github.com/karpathy/ng-video-lecture)
-[GPT Repo](https://github.com/elliottbarnes/nanoGPT)
+- [Companion Notebook](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
+- [Lecture Repo](https://github.com/karpathy/ng-video-lecture)
+- [GPT Repo](https://github.com/elliottbarnes/nanoGPT)
