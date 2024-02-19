@@ -17,7 +17,7 @@
 - Activate conda environment `source activate <environment_name>`
 - Install transformers library `pip install transformers`
 
-- **ongoing...
+**ongoing...
 
 ## Resources
 - [Companion Notebook](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
